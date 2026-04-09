@@ -143,7 +143,7 @@ Building a hands-on home lab on a **Lenovo ThinkCentre M720q Tiny** to simulate 
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -159,11 +159,11 @@ Building a hands-on home lab on a **Lenovo ThinkCentre M720q Tiny** to simulate 
 
 </div>
 
----
+--- -->
 
 ## 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Add [this GitHub Action](https://github.com/Platane/snk) to your repo to generate the snake animation. Once set up, uncomment the line below.
+
 
 ![snake gif](https://github.com/anmolmanku/anmolmanku/blob/output/github-contribution-grid-snake-dark.svg)
 
