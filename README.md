@@ -1,38 +1,47 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=80&lines=Hey!+I'm+Anmol+Singh+👋;IT+Support+Specialist+%7C+CompTIA+A%2B+Certified;ITIL+4+Foundation+Certified;Builder+of+AI+Voice+Agents+%26+Home+Labs;Let's+Break+%26+Fix+Things!+🔧)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Anmol%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Specialist%20%7C%20Builder%20%7C%20Homelab%20Nerd&descAlignY=58&descColor=58a6ff&animation=fadeIn)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=600&height=70&color=58A6FF&lines=CompTIA+A%2B+%26+ITIL+4+Certified+%F0%9F%8F%85;Builder+of+AI+Voice+Agents+%F0%9F%A4%96;Homelab+Tinkerer+%26+Sysadmin+in+Training+%F0%9F%9A%80;Breaking+things+to+learn+how+to+fix+them+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=anmolmanku&label=Profile%20views&color=0e75b6&style=flat" alt="anmolmanku" />
+  <img src="https://komarev.com/ghpvc/?username=anmolmanku&label=Profile%20views&color=58a6ff&style=flat" alt="anmolmanku" />
 </p>
 
-```
-    ____________________________________________
-   |                                            |
-   |  > whoami                                  |
-   |  Anmol Singh — IT Specialist. Builder.     |
-   |  Bug Squasher. Homelab Nerd. 🖥️            |
-   |____________________________________________|
-          |
-          | 🖥️  thinkcentre-m720q running Proxmox
-          | 🍓  pi-zero-2w blocking ads network-wide
-          | ☁️  m365-admin — provisioned users & managed access
-          | 🤖  ai-voice-agent — answered calls 24/7 @ marcrete
-```
-
 </div>
+
+---
+
+```bash
+┌──(anmol㉿homelab)-[~]
+└─$ whoami
+
+  Name    : Anmol Singh
+  Role    : IT Specialist | Builder | Problem Solver
+  Stack   : Windows · Linux · M365 · Proxmox · n8n · SQL
+  Certs   : CompTIA A+ | ITIL 4 Foundation
+  Lab     : ThinkCentre M720q → Proxmox → AD + Intune + DNS + DHCP
+  Pi      : Raspberry Pi Zero 2W → Pi-hole (network-wide ad blocker)
+  Built   : AI voice agent → 24/7 call routing + lead capture @ Marcrete
+  Status  : Open to opportunities 👀
+
+┌──(anmol㉿homelab)-[~]
+└─$ █
+```
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Diploma in Computer Programming** — Niagara College, Toronto ON (2025)
-- 🏅 **CompTIA A+ Certified** (Feb 2026 – Feb 2029) & **ITIL 4 Foundation Certified** (Mar 2026 – Mar 2029)
+- 🏅 **CompTIA A+** (Feb 2026–2029) & **ITIL 4 Foundation** (Mar 2026–2029)
 - 💼 Previously **IT Support Specialist** @ Marcrete Contracting Ltd., Vaughan ON
 - 🤖 Built & deployed an **AI-powered voice agent** for 24/7 automated call handling & lead capture
 - 🍓 Running a **Pi-hole** on a Raspberry Pi Zero 2W as a network-wide DNS-level ad blocker
 - 🏠 Building an **enterprise IT Home Lab** with Proxmox, Active Directory, Intune, DNS & DHCP
-- 🌱 Constantly learning — currently deep-diving into **sysadmin, networking & cloud infrastructure**
+- 🌱 Currently deep-diving into **sysadmin, networking & cloud infrastructure**
 - 📍 Based in the **Greater Toronto Area, Ontario** 🇨🇦
 
 ---
@@ -57,6 +66,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### Microsoft & Cloud
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -111,7 +121,7 @@
 Designed and deployed a production-ready **AI-powered voice agent** for a contracting business.
 - 24/7 call routing, automated lead capture, appointment booking & emergency escalation
 - Built with **n8n**, external APIs, and version control best practices
-- Fully production-deployed — not a demo, it's running in the real world 🚀
+- Fully production-deployed — not a demo, it ran in the real world 🚀
 
 ---
 
@@ -137,33 +147,34 @@ Building a hands-on home lab on a **Lenovo ThinkCentre M720q Tiny** to simulate 
 
 <div align="center">
 
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolmanku&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&border_radius=5&card_width=500)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anmolmanku&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmanku&theme=transparent&hide_border=true&border_radius=5&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anmolmanku&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolmanku&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&border_radius=5&card_width=500&title_color=58a6ff&icon_color=58a6ff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmanku&theme=transparent&hide_border=true&border_radius=5&card_width=500&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anmolmanku&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📫 Contact Me
+## 🐍 Contribution Snake
 
-```
-    (   (
-   )   )
-  _______
- |       |
- |       |  Let's connect — I'm always up for a coffee chat ☕
- |_______|
-(_________)
-```
+> ⚙️ **Setup required:** Add [this GitHub Action](https://github.com/Platane/snk) to your repo to generate the snake animation. Once set up, uncomment the line below.
+
+<!-- ![snake gif](https://github.com/anmolmanku/anmolmanku/blob/output/github-contribution-grid-snake-dark.svg) -->
+
+---
+
+## 📫 Contact Me
 
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolmanku/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anmolmanku.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolsingh27104@gmail.com)
 
 </div>
 
@@ -180,6 +191,6 @@ Whether it's a cool project, homelab talk, or just tech banter — hit me up!
 
 <br>
 
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes" width="500"/></a>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 </div>
