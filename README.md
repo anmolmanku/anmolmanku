@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Diploma in Computer Programming** — Niagara College, Toronto ON (2025)
+- 🎓 **Diploma in Computer Programming** - Niagara College, Toronto ON (2025)
 - 🏅 **CompTIA A+** (Feb 2026–2029) & **ITIL 4 Foundation** (Mar 2026–2029)
 - 💼 Previously **IT Support Specialist** @ Marcrete Contracting Ltd., Vaughan ON
 - 🤖 Built & deployed an **AI-powered voice agent** for 24/7 automated call handling & lead capture
@@ -92,21 +92,21 @@
 
 ```
 📅 Dec 2024 – Apr 2026
-🏢 IT Support Specialist — Marcrete Contracting Ltd. (Vaughan, ON)
+🏢 IT Support Specialist - Marcrete Contracting Ltd. (Vaughan, ON)
    ├── Tier 1/2 hardware, software & network support
    ├── Microsoft 365 admin: user provisioning, access control, hardware imaging
    ├── Deployed AI-powered voice agent → 24/7 automated call coverage
    └── Wrote and maintained end-user IT documentation & policies
 
 📅 Sep 2024 – Dec 2024
-🏢 Software Developer & IT Systems (Co-op) — Tayco Office Furnishings Inc. (Etobicoke, ON)
+🏢 Software Developer & IT Systems (Co-op) - Tayco Office Furnishings Inc. (Etobicoke, ON)
    ├── Configured & deployed Label Generating Application + endpoints
    ├── Troubleshot hardware/app errors & deployed patches
    ├── Wrote SQL queries for accurate data tracking
    └── Collaborated cross-functionally to deliver on-time technical solutions
 
 📅 Jun 2023 – Aug 2024
-🌐 IT & Infrastructure Consultant — Freelance (Remote)
+🌐 IT & Infrastructure Consultant - Freelance (Remote)
    ├── Managed network configs, server provisioning, email authentication
    └── Executed backup recovery, data migrations & maintenance
 ```
@@ -116,17 +116,17 @@
 ## 🔬 Projects
 
 ### 🤖 AI Voice Call Routing & Lead Capture System
-> *Marcrete Contracting Ltd. — Sep 2025 to Dec 2025*
+> *Marcrete Contracting Ltd. - Sep 2025 to Dec 2025*
 
 Designed and deployed a production-ready **AI-powered voice agent** for a contracting business.
 - 24/7 call routing, automated lead capture, appointment booking & emergency escalation
 - Built with **n8n**, external APIs, and version control best practices
-- Fully production-deployed — not a demo, it ran in the real world 🚀
+- Fully production-deployed - not a demo, it ran in the real world 🚀
 
 ---
 
 ### 🍓 Network-Wide Ad Blocker (Pi-hole)
-> *Personal Project — Mar 2026 to Present*
+> *Personal Project - Mar 2026 to Present*
 
 Deployed **Pi-hole** on a Raspberry Pi Zero 2W as a DNS-level ad blocker for the entire home network.
 - Configured as primary DNS server to filter ads & trackers at the network layer
@@ -135,7 +135,7 @@ Deployed **Pi-hole** on a Raspberry Pi Zero 2W as a DNS-level ad blocker for the
 ---
 
 ### 🏠 Enterprise IT & Networking Home Lab
-> *Personal Project — Apr 2026 to Present*
+> *Personal Project - Apr 2026 to Present*
 
 Building a hands-on home lab on a **Lenovo ThinkCentre M720q Tiny** to simulate real enterprise environments.
 - Running **Proxmox** hypervisor with VMs for Active Directory, Intune, DNS & DHCP
@@ -185,9 +185,9 @@ Building a hands-on home lab on a **Lenovo ThinkCentre M720q Tiny** to simulate 
 ### 🤝 Let's Connect!
 
 I'm always open to connecting with fellow IT folks, developers, and tinkerers.  
-Whether it's a cool project, homelab talk, or just tech banter — hit me up!
+Whether it's a cool project, homelab talk, or just tech banter - hit me up!
 
-*Thanks for stopping by — drop a ⭐ if something caught your eye. Happy hacking! 😄*
+*Thanks for stopping by - drop a ⭐ if something caught your eye. Happy hacking! 😄*
 
 <br>
 
